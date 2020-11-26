@@ -1,4 +1,4 @@
-# GameHub-prime-render-offload-tweak
+# GameHub PRIME Render Offload Tweak
 Tweak for GameHub that allow to use discrete Nvidia graphics card  
   
 ## How To Use  
