@@ -2,7 +2,7 @@
 	"id": "prime",
 	"name": "Prime render offload",
 	"description": "Tweak allow to use discrete Nvidia graphics card. Check url for more information.",
-	"url": "https://download.nvidia.com/XFree86/Linux-x86_64/435.21/README/primerenderoffload.html",
+	"url": "https://github.com/demonich/GameHub-prime-render-offload-tweak",
 	"env": {
 		"__NV_PRIME_RENDER_OFFLOAD": "1",
 		"__GLX_VENDOR_LIBRARY_NAME": "nvidia",
