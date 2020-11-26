@@ -6,4 +6,4 @@ Just copy prime.json to /home/"YOUR-USER-NAME"/.config/com.github.tkashkin.gameh
 Then enable tweak in GameHub settings  
   
 ### [GameHub](https://github.com/tkashkin/GameHub)  
-### [Prime render offload](https://download.nvidia.com/XFree86/Linux-x86_64/435.21/README/primerenderoffload.html)  
+### [PRIME Render Offload](https://download.nvidia.com/XFree86/Linux-x86_64/435.21/README/primerenderoffload.html)  
